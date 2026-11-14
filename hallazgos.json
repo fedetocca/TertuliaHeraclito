@@ -1,0 +1,56 @@
+[
+  {
+    "contrato": "C-101",
+    "clausula": "C01",
+    "articulo": 12,
+    "explicacion": "La cláusula fija un depósito de 1,90 cánones base en una vivienda entregada sin bienes muebles y sin constancia de hogar protegido. El artículo 12 limita el depósito total a 1,35 veces el canon base (el máximo anterior de 1,90 fue sustituido por la reforma del artículo 40, aplicable a contratos celebrados desde el 01/03/2026; este se firmó el 02/09/2026). No procede la excepción del artículo 13 porque no hay inventario de muebles. Por el artículo 3 el exceso queda sustituido por el tope legal."
+  },
+  {
+    "contrato": "C-101",
+    "clausula": "C03",
+    "articulo": 18,
+    "explicacion": "Permite inspeccionar con solo doce horas de aviso, en cualquier horario y sin aceptación del ocupante, aun sin emergencia. El artículo 18 exige aviso de cuarenta y dos horas, consentimiento y horario entre las nueve y las dieciocho; el ingreso sin ese plazo solo procede ante riesgo material inminente de incendio, inundación o derrumbe, y el mero deseo de inspeccionar no basta. Se relaciona además con la intimidad del artículo 28."
+  },
+  {
+    "contrato": "C-101",
+    "clausula": "C04",
+    "articulo": 11,
+    "explicacion": "Fija un interés moratorio simple diario de 0,25% con máximo de 3,8% por ciclo. El artículo 11 (según la reforma del artículo 40) limita el interés diario a 0,08% del canon vencido impago y su acumulación dentro de un ciclo a 2,4%. Ambos valores pactados exceden los topes legales, que no pueden dejarse de lado (artículo 3); la cláusula se reduce al régimen legal."
+  },
+  {
+    "contrato": "C-102",
+    "clausula": "C06",
+    "articulo": 14,
+    "explicacion": "Dispone retener todo el depósito durante sesenta días tras la entrega de llaves, sin individualizar daños ni gastos. El artículo 14 obliga a restituir el saldo dentro de once días, admitiendo solo descuentos por deuda individualizada o daño imputable con respaldo, y una reserva máxima de 0,22 del último canon por nueve días adicionales cuando exista una reparación ya identificada sin presupuesto. La retención total y genérica es incompatible."
+  },
+  {
+    "contrato": "C-102",
+    "clausula": "C07",
+    "articulo": 5,
+    "explicacion": "Establece un plazo inicial de doce ciclos para una locación ordinaria, sin invocar traslado ni estudios. El artículo 5 fija una duración inicial mínima de diecinueve ciclos; solo el supuesto del artículo 6 (estadía transitoria con constancia certificada previa y otra vivienda habitual) permite reducirla, y aquí no concurre. El plazo se integra hasta el mínimo legal a opción del locatario."
+  },
+  {
+    "contrato": "C-102",
+    "clausula": "C08",
+    "articulo": 8,
+    "explicacion": "Autoriza aumentar el canon un 12% al completar cada tres ciclos. El artículo 8 exige seis ciclos completos entre ajustes y limita cada incremento al 7,3% del canon anterior o a la variación del índice cívico del artículo 38 si fuera menor. La cláusula aclara que no hay opción cooperativa (artículo 9), única vía para modificar intervalos y topes, por lo que viola ambos límites."
+  },
+  {
+    "contrato": "C-103",
+    "clausula": "C01",
+    "articulo": 37,
+    "explicacion": "Impone obligatoriamente al firmar un arancel de apertura de 0,17 del canon base invocando el artículo 36. Ese artículo fue derogado íntegramente por la reforma del artículo 40 y carece de vigencia para contratos celebrados desde el 01/03/2026 (este es del 04/09/2026). El artículo 37 prohíbe expresamente imponer tasa de apertura u otros cargos accesorios no autorizados, por lo que el cobro es incompatible."
+  },
+  {
+    "contrato": "C-103",
+    "clausula": "C06",
+    "articulo": 22,
+    "explicacion": "Ante la salida anticipada tras cuatro ciclos con veintitrés días de preaviso fija una indemnización de 0,90 cánones vigentes. El artículo 22 permite esa salida abonando como máximo 0,38 del canon vigente. La indemnización pactada supera el tope legal y debe reducirse a ese máximo; también contraría el artículo 37 en cuanto penalidad fija."
+  },
+  {
+    "contrato": "C-103",
+    "clausula": "C07",
+    "articulo": 17,
+    "explicacion": "Concede al locador treinta días para resolver reparaciones estructurales y aplica el mismo plazo al peligro actual para el suministro esencial. El artículo 17 exige resolver el defecto estructural dentro de ocho días y el peligro actual para salud o suministro esencial dentro de dieciocho horas desde el aviso. Ambos plazos pactados exceden los legales, que son garantías obligatorias según el artículo 3."
+  }
+]
